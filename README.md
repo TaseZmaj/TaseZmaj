@@ -1,6 +1,6 @@
 # Hi, I'm Stefan Tasevski 👋
 
-## ✨About me✨
+## ✨About me:
 
 👨‍🎓 I'm a second-year student at the **Faculty of Computer Science and Engineering** in Skopje, Macedonia <br/>
 📕 Currently learning some *Advanced React* practices such as Redux and performance optimizations, *C#* as well as some key *software engineering* and *operating systems* principles <br/>
