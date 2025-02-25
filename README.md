@@ -20,9 +20,12 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TaseZmaj&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide=stars)<br/>
+<!--<div style="display:flex;">-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TaseZmaj&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TaseZmaj&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide=stars)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaseZmaj&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--</div>-->
+
 
 ### 🌐 Socials:
 
