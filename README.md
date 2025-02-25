@@ -31,8 +31,8 @@
 
 [![My Discord (401844759850647562)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/401844759850647562)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefan.tasevski.2@students.finki.ukim.mk) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefantasevski) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100008392487185) 
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefantasevski) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100008392487185) -->
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TaseZmaj&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
