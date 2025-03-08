@@ -5,10 +5,10 @@
 👨‍🎓 I'm a second-year student at the **Faculty of Computer Science and Engineering** in Skopje, Macedonia <br/>
 📕 Currently working on a personal React project with Typescript and Material UI, learning *C#* as well as some key *software engineering* and *operating systems* principles <br/>
 🌳 Every step I take, no matter how small, brings me closer to the best version of myself <br/>
-💎 *Perfectionist* <br/>
+💎 Perfectionist <br/>
 
 <!--Stats-->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaseZmaj&show_icons=true&theme=tokyonight&hide=stars)-->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaseZmaj&show_icons=true&theme=tokyonight&hide=stars)-->
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
