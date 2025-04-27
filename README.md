@@ -3,7 +3,7 @@
 ## ✨About me:
 
 👨‍🎓 I'm a second-year student at the **Faculty of Computer Science and Engineering** in Skopje, Macedonia <br/>
-📕 Currently working on a personal React project with Typescript, Material UI and Supabase, learning *.NET* as well as some key *software engineering* and *operating systems* theory <br/>
+📕 Currently working on a personal React project with Typescript, Material UI and Supabase, learning *.NET* MVC as well as some *software engineering* and *operating systems* theory <br/>
 🌳 Every step I take, no matter how small, brings me closer to the best version of myself <br/>
 💎 Perfectionist <br/>
 
