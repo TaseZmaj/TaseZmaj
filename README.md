@@ -31,7 +31,7 @@ Full-stack market tracker with automated ETL data pipelines and a CI/CD pipeline
 - 🚀 **Deployment:** containerized the app with Docker and deployed it to an Oracle Cloud VM with Caddy for HTTPS and a custom DNS record
 - 🧰 **Stack:** React, Java Spring Boot, Python microservices, MongoDB Atlas, REST APIs, Docker, GitHub Actions
 
-### 🐳 [CI/CD & Orchestration Project](https://github.com/TaseZmaj/continuous-integration-and-continuous-delivery-project)
+### 🐳 [CI & Orchestration Project](https://github.com/TaseZmaj/continuous-integration-and-continuous-delivery-project)
 A full-stack app containerized with Docker, orchestrated with Kubernetes, and built automatically with GitHub Actions.
 - 🧰 **Stack:** React, PostgreSQL, Docker, Kubernetes, GitHub Actions
 - 🎯 **Focus:** containerization, Kubernetes orchestration and the CI pipeline (the Node.js/Express backend was scaffolded with GitHub Copilot)
