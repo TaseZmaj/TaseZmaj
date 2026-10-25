@@ -2,7 +2,7 @@
 
 ### 💻 Full-Stack Developer — ⚛️ React · ▲ Next.js · ☕ Java Spring Boot · 🟣 .NET
 
-### 🎓 Final-year Computer Science student at the **Faculty of Computer Science and Engineering (FCSE / FINKI)** in Skopje.
+🎓 Final-year Computer Science student at the **Faculty of Computer Science and Engineering (FCSE / FINKI)** in Skopje.
 
 🤝 As a **freelance developer**, I take client projects through the full lifecycle:
 
@@ -19,7 +19,7 @@
 ## 🔥 What I'm working on
 
 - ⚖️ **Freelance Full-Stack Developer:** building a website and content-management platform for a law firm with **Next.js** and **Payload CMS**
-- 📜 **Finishing a React course:** React & Next.js certification course (Udemy)
+- 📜 **React & Next.js (Udemy):** React & Next.js certification course (Udemy)
 - 🎓 **Finishing my bachelor's degree:** final exam, internship and thesis
 
 
@@ -101,5 +101,8 @@ A faculty seminar project. I taught myself JavaScript and React to build an app 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/stefan-tasevski-32b959312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:stefan.tasevski.2@students.finki.ukim.mk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefan.tasevski.2@students.finki.ukim.mk)
+<br>
+📨 stefan.tasevski.2@students.finki.ukim.mk
