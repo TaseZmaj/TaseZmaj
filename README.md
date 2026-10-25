@@ -91,9 +91,9 @@ A faculty seminar project. I taught myself JavaScript and React to build an app 
 🏛️ **BSc Computer Science** — Faculty of Computer Science and Engineering (FCSE / FINKI), Ss. Cyril and Methodius University, Skopje · *expected 2027*
 
 - 📚 **Relevant coursework:**
-  - 🎨 **Frontend:** Web Design (grade 10/10 🏆), Client-Side Programming (JavaScript), User Interface Design Patterns
-  - ⚙️ **Backend:** Java Spring Boot Development, .NET Core Development, Databases
-  - 🏗️ **Architecture & DevOps:** Design and Software Architecture, DevOps (Docker, Kubernetes, CI/CD)
+  - 🎨 **Frontend:** Web Design (HTML/CSS) -grade 10/10 🏆, Client-Side Programming (JavaScript), User Interface Design Patterns
+  - ⚙️ **Backend:** Web Programming (Spring Boot), Integrated Systems (ASP.NET Core), Databases
+  - 🏗️ **Architecture & DevOps:** Design and Software Architecture, Continuous Integration and Delivery (Docker, Kubernetes, CI/CD)
   - 🧱 **Foundations:** Structured Programming, Object-Oriented Programming
 <br>
 
