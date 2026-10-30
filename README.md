@@ -1,58 +1,43 @@
 # Hi, I'm Stefan Tasevski 👋
 
-### 💻 Full-Stack Developer — ⚛️ React · ▲ Next.js · ☕ Java Spring Boot · 🟣 .NET
+### Full-Stack Developer — React · Next.js · Java Spring Boot · .NET
 
-🎓 Final-year Computer Science student at the **Faculty of Computer Science and Engineering (FCSE / FINKI)** in Skopje.
+Final-year Computer Science student at the **Faculty of Computer Science and Engineering (FCSE / FINKI)** in Skopje.
 
-🤝 As a **freelance developer**, I take client projects through the full lifecycle:
-
-- 🗣️ **Requirements:** meeting with the client to gather what they actually need
-- 🗂️ **Specification:** turning those needs into clear, structured requirements
-- 📐 **Architecture:** documenting the system design before writing code
-- 🎨 **UI design:** designing the interface and user flows
-- 👨‍💻 **Development:** building the application from the documentation and designs
-- 🚀 **Deployment & maintenance:** hosting the application and keeping it running
-
-📍 Skopje, North Macedonia · 🔎 Open to **internships and junior roles** (frontend, full-stack or backend), on-site in Skopje, remote, or EU.
+· Skopje, North Macedonia <br/> 
+· Open to **internships and junior roles** (frontend, full-stack or backend), on-site in Skopje, remote, or EU.
 
 
-## 🔥 What I'm working on
+## Featured projects
 
-- ⚖️ **Freelance Full-Stack Developer:** building a website and content-management platform for a law firm with **Next.js** and **Payload CMS**
-- 📜 **React & Next.js (Udemy):** finishing the course, certificate coming soon
-- 🎓 **Finishing my bachelor's degree:** final exam, internship and thesis
-
-
-## 🛠️ Featured projects
-
-### 📈 [Cryptocurrency Market Tracker](https://github.com/TaseZmaj/cryptocurrency-market-tracker-app) · 🌐 [Live demo](https://crypto-market-tracker.duckdns.org)
+### [Cryptocurrency Market Tracker](https://github.com/TaseZmaj/cryptocurrency-market-tracker-app) · [Live demo](https://crypto-market-tracker.duckdns.org)
 Full-stack market tracker with automated ETL data pipelines and a CI/CD pipeline. Built in a team of three.
-- 🙋 **My part:** designed and built the entire React frontend, developed ~90% of the backend ETL pipeline, integrated the frontend with the backend, and created the CI/CD pipeline
-- 🚀 **Deployment:** containerized the app with Docker and deployed it to an Oracle Cloud VM with Caddy for HTTPS and a custom DNS record
-- 🧰 **Stack:** React, Java Spring Boot, Python microservices, MongoDB Atlas, REST APIs, Docker, GitHub Actions
+- **My part:** designed and built the entire React frontend, developed ~90% of the backend ETL pipeline, integrated the frontend with the backend, and created the CI/CD pipeline
+- **Deployment:** containerized the app with Docker and deployed it to an Oracle Cloud VM with Caddy for HTTPS and a custom DNS record
+- **Stack:** React, Java Spring Boot, Python microservices, MongoDB Atlas, REST APIs, Docker, GitHub Actions
 
-### 🐳 [CI & Orchestration Project](https://github.com/TaseZmaj/continuous-integration-and-continuous-delivery-project)
+### [CI/CD & Orchestration Project](https://github.com/TaseZmaj/fullstack-k8s-cicd)
 A full-stack app containerized with Docker, orchestrated with Kubernetes, and built automatically with GitHub Actions.
-- 🧰 **Stack:** React, PostgreSQL, Docker, Kubernetes, GitHub Actions
-- 🎯 **Focus:** containerization, Kubernetes orchestration and the CI pipeline (the Node.js/Express backend was scaffolded with GitHub Copilot)
+- **Stack:** React, PostgreSQL, Docker, Kubernetes, GitHub Actions
+- **Focus:** containerization, Kubernetes orchestration and the CI pipeline (the Node.js/Express backend was scaffolded with GitHub Copilot)
 
-### 🧁 [Product List with Cart](https://github.com/TaseZmaj/product-list-with-cart-app)
+### [Product List with Cart](https://github.com/TaseZmaj/product-list-with-cart-app)
 Frontend Mentor challenge: a responsive dessert-shop UI with cart logic and animations.
-- 🧰 **Stack:** React, Framer Motion, CSS Modules
+- **Stack:** React, Framer Motion, CSS Modules
 
-### 🚌 [Skopje Bus Lines](https://github.com/TaseZmaj/bus-lines-app)
+### [Skopje Bus Lines](https://github.com/TaseZmaj/bus-lines-app)
 A faculty seminar project. I taught myself JavaScript and React to build an app showing my city's bus lines, schedules and stops, then presented it to my class.
-- 🧰 **Stack:** React, JavaScript, HTML, CSS
+- **Stack:** React, JavaScript, HTML, CSS
 
 
-## ⚡ Tech stack
+## Tech stack
 
-- 🔤 **Languages:** JavaScript, TypeScript, Java, C#, SQL, HTML, CSS
-- 🎨 **Frontend:** React, Next.js
-- ⚙️ **Backend:** Java Spring Boot, .NET Core (ASP.NET), REST APIs
-- 🗄️ **Databases:** PostgreSQL, MongoDB
-- 🐳 **DevOps:** Docker, Kubernetes, GitHub Actions (CI/CD), Git, GitHub
-- 🤖 **AI-assisted development:** Claude Code, GitHub Copilot
+- **Languages:** JavaScript, TypeScript, Java, C#, SQL, HTML, CSS
+- **Frontend:** React, Next.js
+- **Backend:** Java Spring Boot, .NET Core (ASP.NET), REST APIs
+- **Databases:** PostgreSQL, MongoDB
+- **DevOps:** Docker, Kubernetes, GitHub Actions (CI/CD), Git, GitHub
+- **AI-assisted development:** Claude Code, GitHub Copilot
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -79,7 +64,7 @@ A faculty seminar project. I taught myself JavaScript and React to build an app 
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
-🎬 **Creative tools:** Adobe Photoshop, Adobe Premiere Pro
+**Creative tools:** Adobe Photoshop, Adobe Premiere Pro
 
 <p align="center">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
@@ -87,20 +72,37 @@ A faculty seminar project. I taught myself JavaScript and React to build an app 
 </p>
 
 
-## 🎓 Education
+## Education
 
-🏛️ **BSc Computer Science** — Faculty of Computer Science and Engineering (FCSE / FINKI), Ss. Cyril and Methodius University, Skopje · *expected 2027*
+**BSc Computer Science** — Faculty of Computer Science and Engineering (FCSE / FINKI), Ss. Cyril and Methodius University, Skopje · *expected 2027*
 
-- 📚 **Relevant coursework:**
-  - 🎨 **Frontend:** Web Design (HTML/CSS, grade 10/10 🏆), Client-Side Programming (JavaScript), User Interface Design Patterns
-  - ⚙️ **Backend:** [Web Programming (Spring Boot)](https://github.com/TaseZmaj/spring-boot-coursework), [Integrated Systems (ASP.NET Core)](https://github.com/TaseZmaj/dotnet-core-coursework), Databases
-  - 🏗️ **Architecture & DevOps:** Design and Software Architecture, Continuous Integration and Delivery (Docker, Kubernetes, CI/CD)
-  - 🧱 **Foundations:** Structured Programming, Object-Oriented Programming
+- **Relevant coursework:**
+  - **Frontend:** Web Design (HTML/CSS, grade 10/10), Client-Side Programming (JavaScript), User Interface Design Patterns
+  - **Backend:** [Web Programming (Spring Boot)](https://github.com/TaseZmaj/spring-boot-coursework), [Integrated Systems (ASP.NET Core)](https://github.com/TaseZmaj/dotnet-core-coursework), Databases
+  - **Architecture & DevOps:** Design and Software Architecture, Continuous Integration and Delivery (Docker, Kubernetes, CI/CD)
+  - **Foundations:** Structured Programming, Object-Oriented Programming
+
+## Freelance Workflow
+
+As a **freelance developer**, I take client projects through the full lifecycle:
+
+- **Requirements:** meeting with the client to gather what they actually need
+- **Specification:** turning those needs into clear, structured requirements
+- **Architecture:** documenting the system design before writing code
+- **UI design:** designing the interface and user flows
+- **Development:** building the application from the documentation and designs
+- **Deployment & maintenance:** hosting the application and keeping it running
+
+## What I'm currently working on
+
+- **Freelance Full-Stack Developer:** building a website and content-management platform for a law firm with **Next.js** and **Payload CMS**
+- **React & Next.js (Udemy):** finishing the course, certificate coming soon
+- **Finishing my bachelor's degree:** final exam, internship and thesis
 
 
-## 📫 Let's connect
+## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-tasevski-32b959312/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefan.tasevski.2@students.finki.ukim.mk)
 
-📨 stefan.tasevski.2@students.finki.ukim.mk
+stefan.tasevski.2@students.finki.ukim.mk
