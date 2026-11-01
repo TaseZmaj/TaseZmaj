@@ -16,18 +16,19 @@ Full-stack market tracker with automated ETL data pipelines and a CI/CD pipeline
 - **Deployment:** containerized the app with Docker and deployed it to an Oracle Cloud VM with Caddy for HTTPS and a custom DNS record
 - **Stack:** React, Java Spring Boot, Python microservices, MongoDB Atlas, REST APIs, Docker, GitHub Actions
 
+### [Product List with Cart](https://github.com/TaseZmaj/product-list-with-cart-app) · [Live demo](https://tasezmaj-product-list-with-cart.vercel.app)
+Frontend Mentor challenge: a responsive dessert-shop UI with cart logic and animations.
+- **Stack:** React, Framer Motion, CSS Modules
+
 ### [CI/CD & Orchestration Project](https://github.com/TaseZmaj/fullstack-k8s-cicd)
 A full-stack app containerized with Docker, orchestrated with Kubernetes, and built automatically with GitHub Actions.
 - **Stack:** React, PostgreSQL, Docker, Kubernetes, GitHub Actions
 - **Focus:** containerization, Kubernetes orchestration and the CI pipeline (the Node.js/Express backend was scaffolded with GitHub Copilot)
 
-### [Product List with Cart](https://github.com/TaseZmaj/product-list-with-cart-app)
-Frontend Mentor challenge: a responsive dessert-shop UI with cart logic and animations.
-- **Stack:** React, Framer Motion, CSS Modules
-
-### [Skopje Bus Lines](https://github.com/TaseZmaj/bus-lines-app)
+### [Skopje Bus Lines](https://github.com/TaseZmaj/bus-lines-app) · [Live demo](https://skopje-bus-lines.vercel.app)
 A faculty seminar project. I taught myself JavaScript and React to build an app showing my city's bus lines, schedules and stops, then presented it to my class.
 - **Stack:** React, JavaScript, HTML, CSS
+
 
 
 ## Tech stack
