@@ -103,7 +103,7 @@ As a **freelance developer**, I take client projects through the full lifecycle:
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-tasevski-32b959312/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-tasevski-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefan.tasevski.2@students.finki.ukim.mk)
 
 stefan.tasevski.2@students.finki.ukim.mk
